@@ -6,6 +6,9 @@
   <packaging>war</packaging>
 
 
+<!-- 这里是最开始的配置，就是去maven中央仓库里面复制代码即可，然后他就会导入包了。 爽了。-->
+
+
 <!-- 引入项目依赖的jar包 -->
 <!-- spring mvc & spring -->
 

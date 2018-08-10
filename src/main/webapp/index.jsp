@@ -1,10 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>噢，这是我的标题</title>
 
 <!-- 引入jquery -->
 <script type="text/javascript" src="static/js/jquery-1.12.4.min.js"></script>
@@ -15,6 +15,6 @@
 
 </head>
 <body>	
-	<button class="btn btn-success">按钮</button>
+	<button class="btn btn-success">挖槽，这是derek我的第一个按钮</button>
 
 </body>
